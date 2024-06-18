@@ -23,6 +23,6 @@ The Space Invaders Game is a Java-based implementation of the classic arcade sho
 
 ## Source Code
 
-http://zetcode.com/javagames/spaceinvaders/
+- http://zetcode.com/javagames/spaceinvaders/
 
 ---
